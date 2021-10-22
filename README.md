@@ -1,15 +1,7 @@
 # Note-Taker
 
-## Acceptance Criteria
-
-
-
-## Mock-Up
-
-The following video shows an example of the application being used from the command line:
-
-
-
+  ## team_README-generator
+![badge](https://img.shields.io/badge/license-MIT-ff69b4)
 ## Description
 
 ```md
@@ -34,26 +26,30 @@ THEN I am prompted to select an employee to update and their new role and this i
  
 
 
-## Setup/Installation Requirements
+
+## Table of Contents
+
+- [Description](#description)
+- [Installation](#installation)
+- [Usage](#usage)
+- [License](#license)
+- [Questions](#questions)
 
 
 
- 
-
-## Support and contact details
-
-Please email us for further questions at jessicaga941@gmail.com
-
-## Technologies Used
+## Installation
+```npm i mysql2``` ```npm i inquirer``` ```npm i console.table```
+## Usage
 
 
-## Contribution Guidlines 
+## License
+![badge](https://img.shields.io/badge/license-MIT-ff69b4)
+<br />
+This application is covered by the MIT license. 
 
-Direct link to site:
+## Questions
+Find me on GitHub: [Jessicaga9410](https://github.com/Jessicaga9410)<br />
+<br />
+Email me with any questions: Jessicaga9410@gmail.com<br /><br />
 
 
-### License
-
-Copyright(c) 2021 Jessica Galarza
-
-This software is licensed under MIT license.
