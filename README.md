@@ -9,11 +9,6 @@
 The following video shows an example of the application being used from the command line:
 
 
-# Random Shelf
-
-#### Random-Shelf-Repo, 09/15/18
-
-#### By Lawrence Kirk
 
 ## Description
 
