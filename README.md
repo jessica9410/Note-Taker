@@ -20,11 +20,7 @@ WHEN I click on the Write icon in the navigation at the top of the page
 THEN I am presented with empty fields to enter a new note title and the note’s text in the right-hand column
 ```
 
- 
-
-
-
-## Table of Contents
+ ## Table of Contents
 
 - [Description](#description)
 - [Installation](#installation)
@@ -32,12 +28,8 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 - [License](#license)
 - [Questions](#questions)
 
-
-
 ## Installation
-```npm install``
- ```node server.js``` 
-```then open http://localhost:3001 in browser```
+`npm install` `node server.js` `then open http://localhost:3001 in browser`
 ## Usage
 
 
