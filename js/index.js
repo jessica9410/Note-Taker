@@ -9,7 +9,7 @@ if(window.location.pathName==='/notes'){
     noteText=document.querySelector('.note-textarea');
     saveNoteBtn=document.querySelector('.save-note');
     newNoteBtn=document.querySelector('.new-note');
-    notelist=document.querySelector('.list-container .list-group');
+    noteList=document.querySelector('.list-container .list-group');
 }
 
 //show elements 
