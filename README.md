@@ -32,7 +32,7 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 `npm install` `node server.js` `then open http://localhost:3001 in browser`
 ## Usage
 
-
+![notetakerdemo](https://user-images.githubusercontent.com/87554644/139184005-58914226-62a9-434f-ab53-81c995e423f5.png)
 ## License
 ![badge](https://img.shields.io/badge/license-MIT-ff69b4)
 <br />
