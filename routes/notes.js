@@ -4,13 +4,13 @@ const uuid = require('../helpers/uuid');
 
 
 // GET Route for retrieving all the tips
-notes.get('/notes', (req, res) => {
+notes.get('/notes', async(req, res) => {
   console.info(`${req.method} request received for notes test`);
-  readFromFile('./db/db.json').then((data) => res.json(JSON.parse(data)));
+  readFromFile('db/db.json').then((data) => res.json(JSON.parse(data)));
 });
 
 // POST Route for a new UX/UI tip
-notes.post('/notes', (req, res) => {
+notes.post('/notes', async(req, res) => {
   console.info(`${req.method} request received to add a note`);
   console.log(req.body);
 
@@ -30,10 +30,10 @@ notes.post('/notes', (req, res) => {
   }
 });
 
-notes.delete('/notes/:id', (req, res) => {
+notes.delete('/notes/:id', async (req, res) => {
     console.info(`${req.method} request received to delete a note`);
       console.log("id:" + req.params.id);
-      readAndDelete(req.params.id, './db/db.json');
+      readAndDelete(req.params.id, 'db/db.json');
       res.json(`Note deleted successfully`);
 
   });

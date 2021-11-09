@@ -1,9 +1,10 @@
 # Note-Taker
-
+------
   ## team_README-generator
+  ------
 ![badge](https://img.shields.io/badge/license-MIT-ff69b4)
 ## Description
-
+------
 ```
 GIVEN a note-taking application
 WHEN I open the Note Taker
@@ -21,7 +22,7 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 ```
 
  ## Table of Contents
-
+------
 - [Description](#description)
 - [Installation](#installation)
 - [Usage](#usage)
@@ -29,16 +30,19 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 - [Questions](#questions)
 
 ## Installation
+------
 `npm install` `node server.js` `then open http://localhost:3001 in browser`
 ## Usage
-
+------
 ![notetakerdemo](https://user-images.githubusercontent.com/87554644/139184005-58914226-62a9-434f-ab53-81c995e423f5.png)
 ## License
+------
 ![badge](https://img.shields.io/badge/license-MIT-ff69b4)
 <br />
 This application is covered by the MIT license. 
 
 ## Questions
+------
 Find me on GitHub: [Jessicaga9410](https://github.com/Jessicaga9410)<br />
 <br />
 Email me with any questions: Jessicaga9410@gmail.com<br /><br />
