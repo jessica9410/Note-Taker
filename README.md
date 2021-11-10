@@ -37,6 +37,8 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 ![notetakerdemo](https://user-images.githubusercontent.com/87554644/139184005-58914226-62a9-434f-ab53-81c995e423f5.png)
 
 https://watch.screencastify.com/v/KBiqGsmo6R93TtlE4sLv
+
+Direct Link to website: https://note-taker00017.herokuapp.com/
 ## License
 ------
 ![badge](https://img.shields.io/badge/license-MIT-ff69b4)
